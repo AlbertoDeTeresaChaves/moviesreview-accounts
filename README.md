@@ -1,5 +1,5 @@
 # Accounts Microservice
-> Microservicio encargado de centralizar el ciclo de vida y la información base de los usuarios dentro del ecosistema del sistema. Todo ello dentro de una arquitectura MVC por su facil aprendizaje
+> Microservicio encargado de centralizar el ciclo de vida y la información base de los usuarios dentro del ecosistema del sistema. Todo ello dentro de una arquitectura por Capas por su facil aprendizaje
 
 ## Implementaciones
   * **Spring boot Actuator**
